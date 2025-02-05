@@ -5,59 +5,71 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/index.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>index.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/corrugated-boxes.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>corrugated-boxes.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/folding-carton-boxes.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>folding-carton-boxes.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/manufacturing-process-of-cardboard-boxes.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>manufacturing-process-of-cardboard-boxes.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/raw-material-acquisition-and-preparation.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>raw-material-acquisition-and-preparation.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/box-designing-and-production.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>box-designing-and-production.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/uses-of-cardboard-boxes.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>uses-of-cardboard-boxes.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/packaging-in-various-industries.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>packaging-in-various-industries.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/diy-projects-using-cardboard.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>diy-projects-using-cardboard.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/privacy-policy.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>news.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/sitemap.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>news/what-is-the-environmental-impact-of-cardboard-boxes.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/sitemap.xml</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>news/how-to-assemble-and-utilize-cardboard-boxes-for-storage-efficiently.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/feed.xml</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>https://github.com/WebDesignSydneyAU/BFB/blob/main/bfb/about-us.html</loc>
-                 <lastmod>2025-02-03T06:11:46+00:00</lastmod>
+                 <loc>feed.xml</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2025-02-05T00:26:32+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
